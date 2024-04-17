@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="25px" viewBox="0 0 52 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 11</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E2EEF8" offset="18.4331507%"></stop>
+            <stop stop-color="#C2D8EF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="编辑报告" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-8" transform="translate(-24, -32)" fill="url(#linearGradient-1)">
+            <g id="编组-11" transform="translate(24, 32)">
+                <polygon id="矩形" points="0 -1.13624388e-13 33 25 0 25"></polygon>
+                <polygon id="矩形备份" points="19 -1.13624388e-13 52 25 19 25"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

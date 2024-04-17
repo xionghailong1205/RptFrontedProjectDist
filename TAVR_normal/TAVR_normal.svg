@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="833px" height="8px" viewBox="0 0 833 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>画板</title>
+    <defs>
+        <linearGradient x1="0%" y1="49.9953883%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3B83EA" offset="0%"></stop>
+            <stop stop-color="#28C940" offset="18.0357926%"></stop>
+            <stop stop-color="#FEBC2E" offset="40.2485134%"></stop>
+            <stop stop-color="#EEC875" offset="65.2973629%"></stop>
+            <stop stop-color="#FF5F57" offset="83.79873%"></stop>
+            <stop stop-color="#005ADB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="833" height="8"></rect>
+    </g>
+</svg>

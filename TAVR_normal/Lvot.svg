@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111.959019px" height="106.392234px" viewBox="0 0 111.959019 106.392234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <g id="编辑报告" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份-8" transform="translate(-47.6739, -513.5743)">
+            <g id="编组-18" transform="translate(24, 448)">
+                <g id="编组-4" transform="translate(24, 66)">
+                    <g id="Aortic-Annulus" transform="translate(0, -0)" stroke="#979797">
+                        <g id="编组-9" transform="translate(55.5, 52.3939) rotate(-30) translate(-55.5, -52.3939)translate(12.0136, 16.883)">
+                            <g id="编组-7" transform="translate(0, 0)">
+                                <g id="编组-5">
+                                    <path d="M15.9020318,0 C15.1195763,4.79069964 14.7283485,9.63895073 14.7283485,14.5447533" id="路径" stroke-width="0.866666667"></path>
+                                    <path d="M14.7283485,14.5447533 C14.8995703,20.2280559 14.0945079,23.8712282 12.3131613,25.4742703 C10.5318146,27.0773124 6.42742753,27.0783165 0,25.4772825" id="路径-7" stroke-width="0.866666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M3.27743115e-11,36.8319304 C8.28894737,33.647859 13.1983969,33.647859 14.7283485,36.8319304 C16.2583002,40.0160017 15.1138079,45.0799093 11.2948716,52.023653 C9.71773704,59.0510754 14.8661775,64.168221 26.7401931,67.3750898" id="路径-8" stroke-width="0.866666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M30.642907,57.5516399 C33.6892786,65.6740032 38.7772099,69.7349457 45.906701,69.7344675 C53.0361921,69.7339893 57.7858176,65.6730468 60.1555775,57.5516399" id="路径-10" stroke-width="0.866666667" stroke-linejoin="round"></path>
+                                    <path d="M57.4803684,63.6430537 C60.3703123,66.725606 63.7557061,67.9698571 67.63655,67.3758071 C73.4578157,66.4847321 74.6616888,64.0975166 79.6116749,57.5516399 C84.5616611,51.0057632 72.6020673,41.5627259 73.7065574,37.5099413 C74.4428842,34.8080848 78.4929215,33.8502499 85.8566693,34.6364365" id="路径-11" stroke-width="0.866666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M85.8566693,24.0161425 C75.9785298,27.1293264 71.03946,27.1293264 71.03946,24.0161425 C71.03946,21.3240741 70.2977306,10.8896598 72.4079472,0.497134283" id="路径" stroke-width="0.866666667" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M11.0129599,54.972886 C9.24161858,63.6253675 7.1567497,68.9204679 4.75835327,70.8581874" id="路径-2" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round"></path>
+                                    <path d="M86.9727607,55.1365125 C85.2014194,63.7889939 83.1165505,69.0840944 80.7181541,71.0218138" id="路径-2" stroke-width="1.05" stroke-linecap="round" stroke-linejoin="round" transform="translate(83.8455, 63.0792) scale(-1, 1) translate(-83.8455, -63.0792)"></path>
+                                </g>
+                                <path d="M26.7401931,67.3750898 C29.1395338,67.4092768 31.7413431,66.2214159 34.545621,63.811507" id="路径-9" stroke-width="0.866666667"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M50.58038,77.2860452 C41.4621579,78.1622666 35.6083366,79.5391457 35.6115351,81.0985969 C35.6170751,83.7978853 53.1686866,86.0220106 74.8141581,86.0663198 C96.4596296,86.1106289 114.002261,83.9583429 113.996724,81.2590544 C113.993874,79.8709243 109.350772,78.6084563 101.896934,77.7034853" id="路径" stroke="#000000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="bevel" stroke-dasharray="5.6,4.2" transform="translate(74.8041, 81.6765) rotate(-30) translate(-74.8041, -81.6765)"></path>
+                    <text id="LVOT" transform="translate(82.9032, 91.1713) rotate(-30) translate(-82.9032, -91.1713)" font-family="DINCondensed-Bold, DIN Condensed" font-size="8.96" font-style="condensed" font-weight="bold" fill="#000000">
+                        <tspan x="75.9031926" y="92.6713467">LVOT</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
